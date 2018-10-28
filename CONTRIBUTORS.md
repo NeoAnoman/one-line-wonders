@@ -199,7 +199,7 @@ Place: Lausanne, Switzerland </br>
 Coding Experience: Python, Java, JavaScript </br>
 Email: sourabh@sourabhs.space </br>
 
-Name: Neo Anoman </br>
+Name: [Neo Anoman](https://github.com/NeoAnoman) </br>
 Place: New Delhi,India </br>
 Coding Experiance : Python,c++,c,HTML </br>
 Email: neoanoman@gmail.com
